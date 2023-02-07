@@ -1,0 +1,36 @@
+
+[
+  {
+    "title":"Delivery App",
+    "text":"We need delivery app but with a fun book. Our targets the user and the courier can use it easily ",
+    "img":  ["assets/images/img_1.png","assets/images/img_4.png","assets/images/img_8.png","assets/images/img_2.png"],
+    "time": "21 July",
+    "name": "Ali Mazen",
+    "prize":"230"
+  },
+  {
+    "title":"E_commerce App",
+    "text":"We need delivery app but with a fun book. Our targets the user and the courier can use it easily ",
+    "img":  ["assets/images/img_5.png","assets/images/img_2.png","assets/images/img_1.png","assets/images/img_3.png"],
+    "time": "21 July",
+    "name": "Ali Mazen",
+    "prize":"230"
+  },
+  {
+    "title":"Logo App",
+    "text":"We need delivery app but with a fun book. Our targets the user and the courier can use it easily ",
+    "img":  ["assets/images/img_7.png","assets/images/img_2.png","assets/images/img_3.png","assets/images/img_3.png"],
+    "time": "21 July",
+    "name": "Ali Mazen",
+    "prize":"230"
+  },
+  {
+    "title":"Yahoo App",
+    "text":"We need delivery app but with a fun book. Our targets the user and the courier can use it easily ",
+    "img":  ["assets/images/img_9.png","assets/images/img_1.png","assets/images/img_1.png","assets/images/img_3.png"],
+    "time": "21 July",
+    "name": "Ali Mazen",
+    "prize":"230"
+  }
+
+]
